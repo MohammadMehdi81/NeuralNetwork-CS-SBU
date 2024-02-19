@@ -2,7 +2,7 @@
 title: Neural Networks
 tagline: CS SBU
 description: Neural Network Course of Computer Science Faculty of Shahid Beheshti University. Winter 2023
-# baseurl: '/CS-SBU-NeuralNetwork' # the subpath of your site, e.g. /blog
+baseurl: '/NeuralNetwork-CS-SBU' # the subpath of your site, e.g. /blog
 url: 'http://mohammadmehdi81.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 favicon_ico: "favicon.ico"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", vendor]
@@ -16,7 +16,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Repo on GitHub:
-    - 'https://github.com/Abtinmy/CS-SBU-NeuralNetwork'
+    - 'https://github.com/MohammadMehdi81/NeuralNetwork-CS-SBU'
 footer_content: Neural Network - Computer Science Faculty of Shahid Beheshti University. Winter 2023 - Contact us at abtinmahyar@gmail.com
 
 # Collections for website data
